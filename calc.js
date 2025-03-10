@@ -1,5 +1,5 @@
 function calcularNomina() {
-    const precioB3 = 73.19;
+    const precioB3 = 74.49;
     const precioB4 = 82.56;
     const precioC5 = 92.32;
     const precioC6 = 106.57;
